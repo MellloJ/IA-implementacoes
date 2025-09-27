@@ -1,5 +1,3 @@
-# Video de referencia: https://youtu.be/FYF6lS_BHKA?si=H0njNsJdE-ARJxn-
-
 # Explicação do Código do Algoritmo Genético para o Problema da Mochila Binária
 
 Este documento explica o código Python que implementa o **algoritmo genético** (AG) para resolver o problema da mochila binária. O código utiliza **seleção por roleta**, rastreia a evolução das gerações e exibe um gráfico para acompanhar os fitness de cada geração. Abaixo, temos os pontos principais do código, incluindo a estrutura, os componentes e como eles funcionam para encontrar uma solução otimizada.
@@ -129,3 +127,5 @@ Um gráfico de linha é exibido, com:
 - **Visualização**: Mostra a evolução, geralmente com um aumento rápido no início e estabilização.
 
 ---
+
+# Video de referencia: https://youtu.be/FYF6lS_BHKA?si=H0njNsJdE-ARJxn-
